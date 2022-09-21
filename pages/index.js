@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Bytheconteudo!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -14,6 +14,7 @@ export default function Home() {
         <Header title="PAGAMENTOS TC WALLET" />
         <p className="description">
           Assinaturas, produtos e +
+          Fale comigo no chat para comprar🥰
         </p>
       </main>
 
