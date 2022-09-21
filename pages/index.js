@@ -16,6 +16,7 @@ export default function Home() {
           Assinaturas, produtos e +
           Fale comigo no chat para comprar🥰
         </p>
+        <a href="https://wipsites.com.br"><button style="background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;">Meu Botão</button></a>
       </main>
 
       <Footer />
